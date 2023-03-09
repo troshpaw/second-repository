@@ -1,1 +1,2 @@
 third file text
+This file too modified in the main branch
